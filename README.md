@@ -1,0 +1,1 @@
+# Design-of-a-Basic-Deep-Learning-Model-for-Plant-Disease-Detection
